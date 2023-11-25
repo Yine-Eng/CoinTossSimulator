@@ -1,0 +1,2 @@
+# Instructions  
+Create a JavaFX application that simulates a coin being tossed. When the user clicks a button, the application should generate a random number in the range of 0 to 1. If the number is 0, the coin has landed on “heads,” and if the number is 1, the coin has landed on “tails.” Use an ImageView control, and the coin images provided to display the side of the coin when it is tossed.
